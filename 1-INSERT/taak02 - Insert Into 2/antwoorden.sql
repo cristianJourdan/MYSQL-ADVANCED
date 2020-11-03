@@ -1,1 +1,6 @@
-
+1. INSERT INTO studenten (student_id, voornaam, achternaam, geboortedatum, woonplaats)
+ VALUES ('30', 'sjoerd','vliet','2002-12-23', 'Almere')
+2. INSERT INTO studenten (student_id, voornaam, achternaam, geboortedatum, woonplaats)
+ VALUES ('32', 'pjotter','burg','2002-1-7', 'Almere')
+ 3. INSERT INTO studenten (student_id, voornaam, achternaam, geboortedatum, woonplaats)
+ VALUES ('31', 'dave','hart','2001-8-17', 'Almere')
