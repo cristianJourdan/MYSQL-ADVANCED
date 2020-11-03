@@ -13,4 +13,4 @@
 ## Many to Many
 1.      student<->onderwerp
 2.      werknemer<->projecten
-3.      order<->items
+3.      bestelling<->product
